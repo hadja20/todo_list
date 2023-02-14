@@ -1,3 +1,0 @@
-# TODO LIST 
-
-Techno:  Flutter
